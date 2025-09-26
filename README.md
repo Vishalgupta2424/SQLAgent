@@ -1,4 +1,4 @@
-### 🧙 SQLAgent
+## 🧙 SQLAgent
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)  
@@ -16,7 +16,7 @@ The goal is simple:
 
 ---
 
-### ✨ What It Can Do
+## ✨ What It Can Do
 - **Ask in Your Own Words** → Write queries in natural language and get correct SQL instantly.  
 - **Talk Instead of Typing** → Use voice input if you prefer speaking your query.  
 - **Instant Execution** → Run generated queries directly on MySQL and see results on the spot.  
@@ -28,7 +28,7 @@ The goal is simple:
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Frontend**  
   - Streamlit → clean and interactive web interface  
@@ -49,17 +49,17 @@ The goal is simple:
 ---
 
 
-### 📸 A Sample Example
+## 📸 A Sample Example
 
 
 
-##                                       Natural Query
+###                                       Natural Query
 <img width="1366" height="768" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/71aa08a5-6649-42cb-aec2-867065339ee1" />
 
-##                                       SQL Generated
+###                                       SQL Generated
 <img width="1366" height="768" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/ab379c0e-7b02-41b6-a53a-0e28173c6603" />
 
-##                                        Results
+###                                        Results
 <img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/8d3832d6-cb91-413b-bca5-4d6aaf74c35d" />
 
 
@@ -67,17 +67,18 @@ The goal is simple:
 
 ---
 
-### 🔑 How to Use
+## 🔑 How to Use
   
      
  1. **Pick a Database** → Select the MySQL database you want to query.
     
      <img width="1366" height="713" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/7ac71a52-7b89-48eb-8569-465d2d0f9c41" />
+     <img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/a61a62a5-949e-4957-87ad-ab87dc3d4d7e" />
 
  2. **Choose your language**
     
      <img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/8d0a4593-bb8d-46bb-a493-508b2c627d8f" />
-
+  
  3. **Ask Your Question**  
    - 💬 Type in natural language, or  
    - 🎙️ Speak directly using the microphone.
@@ -97,7 +98,7 @@ The goal is simple:
     <img width="1366" height="161" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/c9224951-0fa3-45a0-b854-bfac7db4625c" />
 ---
 
-### 🔮 Future goals
+## 🔮 Future goals
 - Rich visual outputs (graphs & charts)  
 - Multiple AI model support  
 - Role-based access control  
