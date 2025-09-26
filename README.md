@@ -1,4 +1,4 @@
-# 🧙 SQLAgent
+### 🧙 SQLAgent
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)  
@@ -16,7 +16,7 @@ The goal is simple:
 
 ---
 
-## ✨ What It Can Do
+### ✨ What It Can Do
 - **Ask in Your Own Words** → Write queries in natural language and get correct SQL instantly.  
 - **Talk Instead of Typing** → Use voice input if you prefer speaking your query.  
 - **Instant Execution** → Run generated queries directly on MySQL and see results on the spot.  
@@ -28,7 +28,7 @@ The goal is simple:
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **Frontend**  
   - Streamlit → clean and interactive web interface  
@@ -49,7 +49,7 @@ The goal is simple:
 ---
 
 
-## 📸 A Sample Example
+### 📸 A Sample Example
 
 
 
@@ -67,14 +67,14 @@ The goal is simple:
 
 ---
 
-## 🔑 How to Use
+### 🔑 How to Use
   
      
  1. **Pick a Database** → Select the MySQL database you want to query.
     
      <img width="1366" height="713" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/7ac71a52-7b89-48eb-8569-465d2d0f9c41" />
 
- 2. **choose your language**
+ 2. **Choose your language**
     
      <img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/8d0a4593-bb8d-46bb-a493-508b2c627d8f" />
 
@@ -90,14 +90,14 @@ The goal is simple:
 
 6. **Execute** → Run the SQL and check results instantly.
    
-7. <img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/82195cb6-db9f-4da4-abe0-75f408ad8e71" />
+   <img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/82195cb6-db9f-4da4-abe0-75f408ad8e71" />
 
-8. **History** → Look back at previous queries and outputs anytime.  
+7. **History** → Look back at previous queries and outputs anytime.  
 
     <img width="1366" height="161" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/c9224951-0fa3-45a0-b854-bfac7db4625c" />
 ---
 
-## 🔮 Future goals
+### 🔮 Future goals
 - Rich visual outputs (graphs & charts)  
 - Multiple AI model support  
 - Role-based access control  
