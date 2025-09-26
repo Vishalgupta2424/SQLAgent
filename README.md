@@ -87,13 +87,13 @@ The goal is simple:
 
 4. **Review the SQL** → See the query generated for you, along with a simple explanation.
    
-5. <img width="1366" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/80d342ca-9638-45a4-a171-cb5086ef6d13" />
+    <img width="1366" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/80d342ca-9638-45a4-a171-cb5086ef6d13" />
 
-6. **Execute** → Run the SQL and check results instantly.
+5. **Execute** → Run the SQL and check results instantly.
    
-   <img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/82195cb6-db9f-4da4-abe0-75f408ad8e71" />
+    <img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/82195cb6-db9f-4da4-abe0-75f408ad8e71" />
 
-7. **History** → Look back at previous queries and outputs anytime.  
+6. **History** → Look back at previous queries and outputs anytime.  
 
     <img width="1366" height="161" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/c9224951-0fa3-45a0-b854-bfac7db4625c" />
 ---
