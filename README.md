@@ -49,11 +49,7 @@ The goal is simple:
 ---
 
 
-## 📸 A Quick Look
-Here’s how the system works in action (screenshots to be added):  
-
-| User Interface |
-
+## 📸 A Sample Example
 
 
 
@@ -78,7 +74,7 @@ Here’s how the system works in action (screenshots to be added):
     
      <img width="1366" height="713" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/7ac71a52-7b89-48eb-8569-465d2d0f9c41" />
 
- 2. **choose your language
+ 2. **choose your language**
     
      <img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/8d0a4593-bb8d-46bb-a493-508b2c627d8f" />
 
