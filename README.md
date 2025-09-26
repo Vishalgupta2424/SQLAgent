@@ -1,10 +1,5 @@
 # 🧙 SQLAgent
 
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/SQLAgent?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/your-username/SQLAgent?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/your-username/SQLAgent)  
-![GitHub license](https://img.shields.io/github/license/your-username/SQLAgent)  
-
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)  
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)  
