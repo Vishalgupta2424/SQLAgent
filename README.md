@@ -21,8 +21,7 @@ The goal is simple:
 - **Talk Instead of Typing** → Use voice input if you prefer speaking your query.  
 - **Instant Execution** → Run generated queries directly on MySQL and see results on the spot.  
 - **Know Your Database** → Get a quick view of table names and columns before writing queries.  
-- **Multi-Language Support** → Query in different languages, no barriers.  
-- **Login & Security** → Built-in authentication to keep access safe.  
+- **Multi-Language Support** → Query in different languages, no barriers.   
 - **Easy to Grow** → Modular design so new features can be plugged in later.  
 - **Learn as You Go** → Each generated SQL comes with a short explanation of what it does.  
 - **Never Lose Track** → History of past queries and results for review.  
@@ -36,9 +35,9 @@ The goal is simple:
 
 - **Backend / Core**  
   - Python → application logic and integration  
-  - Google Gemini → converts natural language into SQL  
+  - Google Gemini → converts natural language(NLP) into SQL  
   - SpeechRecognition → enables voice-based query input  
-  - Deep Translator → supports queries in multiple languages  
+  - Deep Translator → supports queries in multiple languages(English, Hindi, etc)
 
 - **Database**  
   - MySQL → query execution and data storage  
@@ -49,8 +48,12 @@ The goal is simple:
 
 ---
 
+
 ## 📸 A Quick Look
 Here’s how the system works in action (screenshots to be added):  
+
+| User Interface |
+
 
 | Natural Query | SQL Generated | Results | Explanation |
 |---------------|--------------|---------|-------------|
