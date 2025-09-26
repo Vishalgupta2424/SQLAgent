@@ -1,0 +1,24 @@
+{
+    "students": {
+        "id": {
+            "type": "int",
+            "primary_key": true,
+            "foreign_key": null
+        },
+        "name": {
+            "type": "varchar(50)",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "age": {
+            "type": "int",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "course": {
+            "type": "varchar(50)",
+            "primary_key": false,
+            "foreign_key": null
+        }
+    }
+}
