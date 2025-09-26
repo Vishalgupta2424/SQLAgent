@@ -68,20 +68,37 @@ Here’s how the system works in action (screenshots to be added):
 
 
 
-👉 Add 4–5 screenshots in an `images/` folder and link them here.
 
 ---
 
 ## 🔑 How to Use
-1. **Log in** → Start the app and sign in with your credentials.  
-2. **Pick a Database** → Select the MySQL database you want to query.  
-3. **Ask Your Question**  
-   - 💬 Type in natural language, or  
-   - 🎙️ Speak directly using the microphone.  
-4. **Review the SQL** → See the query generated for you, along with a simple explanation.  
-5. **Execute** → Run the SQL and check results instantly.  
-6. **History** → Look back at previous queries and outputs anytime.  
+  
+     
+ 1. **Pick a Database** → Select the MySQL database you want to query.
+    
+     <img width="1366" height="713" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/7ac71a52-7b89-48eb-8569-465d2d0f9c41" />
 
+ 2. **choose your language
+    
+     <img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/8d0a4593-bb8d-46bb-a493-508b2c627d8f" />
+
+ 3. **Ask Your Question**  
+   - 💬 Type in natural language, or  
+   - 🎙️ Speak directly using the microphone.
+
+     <img width="1366" height="768" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/651cb132-beae-41e8-a004-b015c71c22ab" />
+
+4. **Review the SQL** → See the query generated for you, along with a simple explanation.
+   
+5. <img width="1366" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/80d342ca-9638-45a4-a171-cb5086ef6d13" />
+
+6. **Execute** → Run the SQL and check results instantly.
+   
+7. <img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/82195cb6-db9f-4da4-abe0-75f408ad8e71" />
+
+8. **History** → Look back at previous queries and outputs anytime.  
+
+    <img width="1366" height="161" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/c9224951-0fa3-45a0-b854-bfac7db4625c" />
 ---
 
 ## 🔮 Future goals
