@@ -5,7 +5,7 @@ import mysql.connector
 import logging
 from config_db import DB_CONFIG
 
-SCHEMA_FILE = "sql_schema.json"
+SCHEMA_FILE = "schema_reference.json"
 logging.basicConfig(level=logging.INFO)
 
 def load_schema():
@@ -78,4 +78,5 @@ def store_all_table_structures(force_update=False):
         if cursor.with_rows:
             cursor.fetchall()  
         cursor.close()
+
         conn.close()
