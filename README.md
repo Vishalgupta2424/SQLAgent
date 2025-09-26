@@ -55,13 +55,15 @@ Here’s how the system works in action (screenshots to be added):
 | User Interface |
 
 
-| Natural Query | SQL Generated | Results | Explanation |
 
-#Natural Query
+
+##                                       Natural Query
 <img width="1366" height="768" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/71aa08a5-6649-42cb-aec2-867065339ee1" />
-#SQL Generated
+
+##                                       SQL Generated
 <img width="1366" height="768" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/ab379c0e-7b02-41b6-a53a-0e28173c6603" />
-#Results
+
+##                                        Results
 <img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/8d3832d6-cb91-413b-bca5-4d6aaf74c35d" />
 
 
