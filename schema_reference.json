@@ -1,22 +1,135 @@
 {
-    "students": {
-        "id": {
+    "course": {
+        "course_id": {
             "type": "int",
             "primary_key": true,
             "foreign_key": null
         },
-        "name": {
-            "type": "varchar(50)",
+        "course_name": {
+            "type": "varchar(100)",
             "primary_key": false,
             "foreign_key": null
         },
-        "age": {
+        "credits": {
             "type": "int",
             "primary_key": false,
             "foreign_key": null
         },
-        "course": {
+        "department_id": {
+            "type": "int",
+            "primary_key": false,
+            "foreign_key": "department(department_id)"
+        },
+        "professor_id": {
+            "type": "int",
+            "primary_key": false,
+            "foreign_key": "professor(professor_id)"
+        }
+    },
+    "department": {
+        "department_id": {
+            "type": "int",
+            "primary_key": true,
+            "foreign_key": null
+        },
+        "department_name": {
+            "type": "varchar(100)",
+            "primary_key": false,
+            "foreign_key": null
+        }
+    },
+    "enrollment": {
+        "enrollment_id": {
+            "type": "int",
+            "primary_key": true,
+            "foreign_key": null
+        },
+        "student_id": {
+            "type": "int",
+            "primary_key": false,
+            "foreign_key": "student(student_id)"
+        },
+        "course_id": {
+            "type": "int",
+            "primary_key": false,
+            "foreign_key": "course(course_id)"
+        },
+        "enrollment_date": {
+            "type": "date",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "grade": {
+            "type": "varchar(2)",
+            "primary_key": false,
+            "foreign_key": null
+        }
+    },
+    "professor": {
+        "professor_id": {
+            "type": "int",
+            "primary_key": true,
+            "foreign_key": null
+        },
+        "first_name": {
             "type": "varchar(50)",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "last_name": {
+            "type": "varchar(50)",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "email": {
+            "type": "varchar(100)",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "department_id": {
+            "type": "int",
+            "primary_key": false,
+            "foreign_key": "department(department_id)"
+        }
+    },
+    "student": {
+        "student_id": {
+            "type": "int",
+            "primary_key": true,
+            "foreign_key": null
+        },
+        "first_name": {
+            "type": "varchar(50)",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "last_name": {
+            "type": "varchar(50)",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "gender": {
+            "type": "enum('Male','Female','Other')",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "date_of_birth": {
+            "type": "date",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "email": {
+            "type": "varchar(100)",
+            "primary_key": false,
+            "foreign_key": null
+        },
+        "department_id": {
+            "type": "int",
+            "primary_key": false,
+            "foreign_key": "department(department_id)"
+        },
+        "gpa": {
+            "type": "decimal(3,2)",
             "primary_key": false,
             "foreign_key": null
         }
